@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Training outputs
+runs/
+results/
+
+# Preprocessed cache
+cache/
+
+# Model weights and arrays
+*.pt
+*.npz
+*.npy
+
+# Raw datasets
+data/
+
+# Logs
+*.jsonl
+
+# OS
+.DS_Store
+Thumbs.db
