@@ -1,0 +1,39 @@
+{
+  "seed": 42,
+  "source": "aptos/train.csv",
+  "splits": {
+    "train": {
+      "n": 2563,
+      "grades": [
+        1263,
+        259,
+        699,
+        135,
+        207
+      ],
+      "sha256": "7acf55ea0f0f615edcf04c97b64fed4d36866fec8f0b01a5876defb2f4d0bb8a"
+    },
+    "val": {
+      "n": 549,
+      "grades": [
+        271,
+        55,
+        150,
+        29,
+        44
+      ],
+      "sha256": "2c0a8f435c46b6fe5cc9594d07c49438fb148bc06b0bfa9644069a66466732d3"
+    },
+    "test": {
+      "n": 550,
+      "grades": [
+        271,
+        56,
+        150,
+        29,
+        44
+      ],
+      "sha256": "e785479fe06ec954cc995d58f1117419f93004acbbc226156e4cc96cda613e97"
+    }
+  }
+}

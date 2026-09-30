@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "EviProto-DR"
+version: 1.0.0
+doi: "10.5281/zenodo.XXXXXXX"   # replace with the Zenodo DOI minted for this release
+repository-code: "https://github.com/<account>/EviProto-DR"   # replace
+license: MIT
+authors:
+  - family-names: Kirubakaran
+    given-names: M.
+    affiliation: "School of Computer Science and Engineering, Vellore Institute of Technology"
+  - family-names: Vijayarajan
+    given-names: V.
+    affiliation: "School of Computer Science and Engineering, Vellore Institute of Technology"
+preferred-citation:
+  type: article
+  title: "Ordinal Prototype Learning with Evidential Uncertainty for Uncertainty-Aware Diabetic Retinopathy Grading"
+  journal: "Frontiers in Artificial Intelligence"
+  year: 2026
+  authors:
+    - family-names: Kirubakaran
+      given-names: M.
+    - family-names: Vijayarajan
+      given-names: V.
